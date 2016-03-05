@@ -1,2 +1,4 @@
 site_name: TPL+ Code Style Guide
+pages:
+- Home: index.md
 theme: readthedocs
