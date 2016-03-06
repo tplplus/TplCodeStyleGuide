@@ -1,6 +1,6 @@
 site_name: TPL+ Code Style Guide
 pages:
 - Home: index.md
-- Markup (FrontEnd): markup.md
+- Markup (HTML/CSS): markup.md
 - Python (BackEnd): python.md
 theme: readthedocs
