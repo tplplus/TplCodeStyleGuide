@@ -15,14 +15,12 @@
 - Tag
 - Attribute
 
-
 ## 네이밍 규칙
 1. 공통 규칙
     - 짧고 간단한 이름을 사용하자. 하지만 자신만 아는 줄임은 피하자.
     - 모든 네이밍은 **`형태(prefix) + 의미(subfix) + 상태(suffix)`** 순서로 조합한다.
     - 이름에는 **영문, 숫자, 언더스코어(_), 하이픈(-)**를 사용한다. (하이픈은 CSS에서만)
     - 이름의 시작은 영문소문자나 언더스코어만 가능하다.
-
 
 1. HTML/CSS
     - ID 이름는 카멜케이스*를 사용하자. (예: id="listOrder")
@@ -217,6 +215,16 @@ fieldset,img {border:0 none}`
         - 정리
             - 다양한곳(2군데 이상)에서 쓰이면 기능단위로 묶고
             - 그 이외의 경우 페이지가 나뉘어 있더라도 서비스(앱) 단위로 묶는다. 
+
+
+# Reference
+- 네이버 컨벤션 : http://nuli.navercorp.com/data/convention/NHN_Coding_Conventions_for_Markup_Languages.pdf
+- 다음 컨벤션 : http://darum.daum.net/convention/html
+- 네이밍 규칙 : http://hhh8947.tistory.com/323
+- codjs 컨벤션 : http://codejs.co.kr/portfolio/views/convention/convention.html#rule-html
+- CSS 최적화 기법 : http://techbug.tistory.com/206
+- 가비아 컨벤션 : http://gabia-frontend-dev.com/wordpress/?p=603
+- HTML&CSS 공부하기 : https://www.gitbook.com/book/singihae/front-end-developer-guide-book/details
 
 
 
